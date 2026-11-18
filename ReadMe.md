@@ -1,58 +1,43 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# Mahdi Ramezaan Zaade
 
-###
+Full-stack developer working in **TypeScript**, **Go** and **V**. Most of what I find interesting sits in the boundary — between a framework and the code built on it, between a service and whoever calls it.
 
-<p align="left">My name is Mahdi and I'm a fullstack Web developer, from Iran</p>
+- Building [Fluxget](https://github.com/metif12/fluxget), an aria2 download manager in V
+- 48 merged pull requests into the [V compiler](https://github.com/vlang/v) — `v mcp`, `v clean`, `v mod why`, a JSON5 parser, an experimental gRPC client
+- Writing [blip](https://github.com/metif12/blip), a Lisp dialect in V: real tail calls, an embeddable CEK machine, errors as values
+- Open to contract work — documentation, small features, API work: [info@mahdir.ir](mailto:info@mahdir.ir)
 
-###
+## Selected work
 
-<h2 align="left">About me</h2>
-A full-stack web developer specializing in JavaScript and React, focused on building reliable, scalable, and clean solutions. I’m driven by a constant curiosity to understand problems deeply and craft well-structured architectures that stand the test of growth. Exploring new technologies is a core part of my work philosophy, helping me build products that are both stable and user-centric. Continuous learning, thoughtful system design, and improving user experience shape the way I approach software development.
+- [blip](https://github.com/metif12/blip) — a Lisp dialect in V where ordinary programs need no macros
+- [Fluxget](https://github.com/metif12/fluxget) — an aria2 download manager kept stable by a machine-checked framework seam
+- [Personal site](https://metif12.github.io) — resume, projects and contact as a static V build ([source](https://github.com/metif12/my-website))
 
-###
-
-<p align="left">✨ Creating bugs since 2017<br>📚 I'm currently learning Zig lang
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
+## I code with
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="Go" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="Tailwind CSS" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
 </div>
 
-###
+## Find me
+
+- Site: [metif12.github.io](https://metif12.github.io) (previously [mahdir.ir](https://mahdir.ir))
+- [LinkedIn](https://www.linkedin.com/in/metif12/) · [X](https://x.com/metif12) · [info@mahdir.ir](mailto:info@mahdir.ir)
