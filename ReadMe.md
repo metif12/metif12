@@ -37,5 +37,5 @@ Full-stack developer working in **TypeScript**, **Go** and **V**. Most of what I
 
 ## Find me
 
-- Site: [metif12.github.io](https://metif12.github.io) (previously [mahdir.ir](https://mahdir.ir))
+- Site: [mahdir.ir](https://mahdir.ir)
 - [LinkedIn](https://www.linkedin.com/in/metif12/) · [info@mahdir.ir](mailto:info@mahdir.ir)
